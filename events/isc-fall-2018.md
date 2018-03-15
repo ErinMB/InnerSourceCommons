@@ -6,8 +6,11 @@ title: 'InnerSource Commons Fall Summit 2018'
 ### October 3-5, 2018 in Islandia, New York, USA
 
 ### Call For Presentations
-* Opens in March 2018. 
-* Speakers will be notified in May 2018.
+Submit your proposal now! 
+* See the Call For Presentations for the 2018 Spring Summit.
+* Notifications will take place in April-May 2018.
+
+Note that all presentations given at the Summit, unless otherwise designated by the presenter, will be covered by the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
 
 ### Registration
 Registration opens soon. The registration fee of $25.00 will be donated to a nominated non-profit organization.
